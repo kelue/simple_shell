@@ -97,3 +97,4 @@ man ./man_1_simple_shell
 ## Authors:
 
 - *Nzeamalu Austine* - [@kelue](https://github.com/kelue)
+- *Oyedele Anuoluwapo* - [@Omo-Mummy](https://github.com/Omo-Mummy) 
